@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>history</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <!-- <div> -->
+        <div class="mn">
+            <a class="mk" href="index.html">HOME</a>
+            <a class="mk" href="about.html">ABOUT</a>
+            <a class="mk" href="history.html">HISTORY</a>
+            <a class="mk" href="contactus.html">CONTACT US</a>
+            <a class="mk" href="more.html">MORE</a>
+
+            <div class="float-right">
+                <a class="btn btn-primary" href="login.html">LOGIN</a>
+                <a class="btn btn-warning" href="signup.html">SIGN UP</a>
+                <a class="btn btn-none" href="register.html">REGISTER</a>
+            </div>
+            <!-- </div> -->
+    </nav>
+    <header class="p-5">
+        <h2 class="text-centre">history</h2>
+    </header>
+
+    <div class="row">
+        <div class="col-2">
+            <div>
+                <h2>1. our history</h2>
+                <u><p class="p-1 text-justify">Although humans have been storing, retrieving, manipulating, and communicating information since the earliest writing systems were developed,[4] the term information technology in its modern sense first appeared in a 1958 article published in the Harvard Business Review; authors Harold J. Leavitt and Thomas L. Whisler commented that "the new technology does not yet have a single established name. We shall call it information technology (IT)."[5] Their definition consists of three categories: techniques for processing, the application of statistical and mathematical methods to decision-making, and the simulation of higher-order thinking through computer programs.[5]
+
+                    The term is commonly used as a synonym for computers and computer networks, but it also encompasses other information distribution technologies such as television and telephones. Several products or services within an economy are associated with information technology, including computer hardware, software, electronics, semiconductors, internet, telecom equipment, and e-commerce.[6][a]</p></u>
+            </div>
+
+        </div>
+        <div class="col-2">
+            <div>
+                <h2>2. our present</h2>
+                <p class="p-1 text-justify">Although humans have been storing, retrieving, manipulating, and communicating information since the earliest writing systems were developed,[4] the term information technology in its modern sense first appeared in a 1958 article published in the Harvard Business Review; authors Harold J. Leavitt and Thomas L. Whisler commented that "the new technology does not yet have a single established name. We shall call it information technology (IT)."[5] Their definition consists of three categories: techniques for processing, the application of statistical and mathematical methods to decision-making, and the simulation of higher-order thinking through computer programs.[5]
+
+                    The term is commonly used as a synonym for computers and computer networks, but it also encompasses other information distribution technologies such as television and telephones. Several products or services within an economy are associated with information technology, including computer hardware, software, electronics, semiconductors, internet, telecom equipment, and e-commerce.[6][a]</p>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <h2>3. our future</h2>
+        <p class="p-4 text-justify">Although humans have been storing, retrieving, manipulating, and communicating information since the earliest writing systems were developed,[4] the term information technology in its modern sense first appeared in a 1958 article published in the Harvard Business Review; authors Harold J. Leavitt and Thomas L. Whisler commented that "the new technology does not yet have a single established name. We shall call it information technology (IT)."[5] Their definition consists of three categories: techniques for processing, the application of statistical and mathematical methods to decision-making, and the simulation of higher-order thinking through computer programs.[5]
+
+            The term is commonly used as a synonym for computers and computer networks, but it also encompasses other information distribution technologies such as television and telephones. Several products or services within an economy are associated with information technology, including computer hardware, software, electronics, semiconductors, internet, telecom equipment, and e-commerce.[6][a]</p>
+    </div>
+
+    <FOOter class="footer">
+        <p class="text-centre text-white"> copyright@2023 <a class="text-primary" href="#">Blog post</a></p>
+    </FOOter>
+</body>
+
+</html>
