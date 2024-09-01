@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>new project</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <!-- <h1>new project</h1> -->
+    <nav class="navbar">
+        <!-- <div> -->h
+        <div class="mn">
+            <a class="mk" href="index.html">HOME</a>
+            <a class="mk" href="about.html">ABOUT</a>
+            <a class="mk" href="history.html">HISTORY</a>
+            <a class="mk" href="contactus.html">CONTACT US</a>
+            <a class="mk" href="more.html">MORE</a>
+
+            <div class="float-right">
+                <a class="btn btn-primary" href="login.html">LOGIN</a>
+                <a class="btn btn-warning" href="signup.html">SIGN UP</a>
+                <a class="btn btn-none" href="register.html">REGISTER</a>
+            </div>
+            <!-- </div> -->
+    </nav>
+    <div class="ad-2px">
+        <img width="100%" height="400px" src="./images/coding.jpg" alt="">
+
+    </div>
+    <div class="row">
+        <div class="card col-4">
+            <a href="https://en.wikipedia.org/wiki/CSS"><img height="180px" width="px" src="./images/css.png"
+                    alt="">responsive image</a>
+
+            <div>
+                <h2 class="text-centre">title</h2>
+                <b>
+                    <p class="text-centre">DESCRIPTION</p>
+                    <p>CSS</p>
+                </b>
+                <p>Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a
+                    document written in a markup language such as HTML or XML (including XML dialects such as SVG,
+                    MathML or XHTML)</p>
+                <a href="https://en.wikipedia.org/wiki/HTML">MORE</a>
+
+
+            </div>
+        </div>
+        <div class="card col-4">
+            <a href="https://en.wikipedia.org/wiki/HTML"><img height="180px" width="px" src="./images/html.png"
+                    alt="">responsive image</a>
+
+
+            <div>
+                <h2 class="text-centre">title</h2>
+                <b>
+                    <p class="text-centre">DESCRIPTION</p>
+                    <p>HTML</p>
+                </b>
+                <p>The HyperText Markup Language or HTML is the standard markup language for documents designed to be
+                    displayed in a web browser</p>
+                <a href="https://en.wikipedia.org/wiki/HTML">MORE</a>
+            </div>
+        </div>
+        <div class="card col-4">
+            <a href="https://en.wikipedia.org/wiki/JavaScript"><img height="180px" width="px" src="./images/js.png"
+                    alt="">responsive image</a>
+
+            <div>
+                <h2 class="text-centre">title</h2>
+                <b>
+                    <p class="text-centre">DESCRIPTION</p>
+                    <p>JAVA SCRIPT</p>
+                </b>
+                <p>JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the
+                    core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use
+                    JavaScript on the client side for webpage behavior, </p>
+                <a href="https://en.wikipedia.org/wiki/JavaScript">MORE</a>
+            </div>
+        </div>
+        <div class="card col-4">
+            <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img height="180px" width="px"
+                    src="./images/python.png" alt="">responsive image</a>
+
+            <div>
+                <h2 class="text-centre">title</h2>
+                <b>
+                    <p class="text-centre">DESCRIPTION</p>
+                    <p>PYTHON</p>
+                </b>
+                <p>Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code
+                    readability with the use of significant indentation via the off-side rule.
+                </p>
+                <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">MORE</a>
+            </div>
+        </div>
+
+
+    </div>
+    <FOOter class="footer">
+        <p class="text-centre text-white"> copyright@2023 <a class="text-primary" href="#">Blog post</a></p>
+    </FOOter>
+
+
+
+
+</body>
+
+</html>
