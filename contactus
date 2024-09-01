@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contactus</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        <!-- <div> -->
+        <div class="mn">
+            <a class="mk" href="index.html">HOME</a>
+            <a class="mk" href="about.html">ABOUT</a>
+            <a class="mk" href="history.html">HISTORY</a>
+            <a class="mk" href="contactus.html">CONTACT US</a>
+            <a class="mk" href="more.html">MORE</a>
+
+            <div class="float-right">
+                <a class="btn btn-primary" href="login.html">LOGIN</a>
+                <a class="btn btn-warning" href="signup.html">SIGN UP</a>
+                <a class="btn btn-none" href="register.html">REGISTER</a>
+            </div>
+            <!-- </div> -->
+    </nav>
+    <header class="p-6">
+        <h2 class="text-centre">contact us</h2>
+    </header>
+
+    <div class="row">
+        <div class="col-3 text-justify p-1">
+            <h2>contact us </h2>
+            <p>
+                The field of information ethics was established by mathematician Norbert Wiener in the 1940s.[50]: 9 
+                Some of the ethical issues associated with the use of information technology include:[51]: 20–21 
+
+                of copyright by those downloading files stored without the permission of the copyright holders
+                -- monitoring their employees' emails and other Internet usage
+                Unsolicited emails
+                -- accessing online databases
+                -- sites installing cookies or spyware to monitor a user's online activities, which may be used by data
+                brokers</pre>
+            </p>
+        </div>
+        <div class="col-2">
+            <h2 class="text-centre">contact us form</h2>
+
+            <div class="p-1 border">
+                <form action="">
+                    <div class="row">
+                        <div class="col-3">
+                            <label for="">name</label>
+                            <input placeholder="entere your name" type="text" name="" id="">
+                        </div>
+
+                        <div class="col-3">
+                            <label for="">class</label>
+                            <input placeholder="" type="text" name="" id="">
+                        </div>
+                        <!-- <div class="col-4"> -->
+
+                        <div class="col-4">
+                            <label for="">phone</label>
+                            <input type="text" name="" id="">
+                        </div>
+                        <div class="col-4">
+                            <label for="">subject</label>
+                            <select name="" id="">
+                                <option selected disabled>select</option>
+                                <option value="problem1">problem1</option>
+                                <option value="problem2">problem2</option>
+                                <option value="problem3">problem3</option>
+
+                            </select>
+                        </div>
+                    </div>
+                    <div class="text-centre p-1">
+                        <label for="">description</label>
+                        <textarea name="" id="" cols="70" rows="10"></textarea>
+                    </div>
+                    <button class="btn btn-primary">select</button>
+            </div>
+            </form>
+        </div>
+    </div>
+    </div>
+    <FOOter class="footer">
+        <p class="text-centre text-white"> copyright@2023 <a class="text-primary" href="#">Blog post</a></p>
+    </FOOter>
+</body>
+
+</html>
