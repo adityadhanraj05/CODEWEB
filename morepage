@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <!-- <div> -->
+         <div class="mn">
+        <a class="mk" href="index.html">HOME</a>
+        <a class="mk" href="about.html">ABOUT</a>
+        <a class="mk" href="history.html">HISTORY</a>
+        <a class="mk" href="contactus.html">CONTACT US</a>
+        <a class="mk" href="more.html">MORE</a>
+         
+        <div class="float-right">
+            <a class="btn btn-primary" href="login.html">LOGIN</a>
+            <a class="btn btn-warning" href="signup.html">SIGN UP</a>
+            <a class="btn btn-none" href="register.html">REGISTER</a>
+        </div>
+        <!-- </div> -->
+    </nav>
+    <header class="p-5">
+        <h2 class="text-centre">about us</h2>
+    </header>
+
+    <div>
+        <h1>1. GOALS</h1>
+        <i><p class="p-4 text-justify">Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information. IT forms part of information and communications technology (ICT).[2] An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.[3Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information. IT forms part of information and communications technology (ICT).[2] An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.[3</p></i>
+    </div>
+
+    <div>
+        <h1>2. mission</h1>
+        <i><p class="p-4 text-justify">Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information. IT forms part of information and communications technology (ICT).[2] An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.[3Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information. IT forms part of information and communications technology (ICT).[2] An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.[3</p></i>
+    </div>
+
+    <div>
+        <h1>3. vision</h1>
+        <i><p class="p-4 text-justify">Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information. IT forms part of information and communications technology (ICT).[2] An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.[3Information technology (IT) is the use of computers to create, process, store, retrieve and exchange all kinds of data[1] and information. IT forms part of information and communications technology (ICT).[2] An information technology system (IT system) is generally an information system, a communications system, or, more specifically speaking, a computer system — including all hardware, software, and peripheral equipment — operated by a limited group of IT users, and an IT project usually refers to the commissioning and implementation of an IT system.[3</p></i>
+    </div>
+<FOOter class="footer">
+    <p class="text-centre text-white"> copyright@2023 <a class="text-primary" href="#">Blog post</a></p>
+</FOOter>
+
+</body>
+</html>
